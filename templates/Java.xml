@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="nf" value="// @formatter:off&#10;$SELECTION$&#10;// @formatter:on" description="Surround with @formatter:off/on" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
